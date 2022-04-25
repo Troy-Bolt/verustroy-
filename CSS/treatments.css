@@ -1,0 +1,12 @@
+.text {
+    align-items: center;
+}
+
+#Special-Offers > h2 {
+    font-family: 'WindSong', cursive; 
+    color: #F62AA0;
+}
+
+/* #Special-Offers {
+    margin-bottom:5em;
+} */
