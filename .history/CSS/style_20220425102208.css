@@ -397,13 +397,6 @@ span {
         background-size: cover;
       }
 
-   @media(max-width:400px){
-       .footer{
-        background-image: url('/img/Footer.png');
-        width: 100%;
-        background-size: contain;
-       }
-   }
 
       .foot{
           padding-left: 1.5rem;

@@ -399,7 +399,7 @@ span {
 
    @media(max-width:400px){
        .footer{
-        background-image: url('/img/Footer.png');
+        background-image: display: none;
         width: 100%;
         background-size: contain;
        }
