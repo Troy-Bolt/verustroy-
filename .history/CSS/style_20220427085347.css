@@ -51,12 +51,11 @@ img {
     object-fit:scale-down;
 }
 
-
 .text {
     align-self: center;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
     .row {
         display: flex;
         justify-content: space-between;
@@ -69,14 +68,6 @@ img {
     }
 }
 
-.row img{
-    flex:70%;
-    width: 100%;
-}
-
-.row p {
-  flex:90%
-}
 span {
     font-family: 'WindSong', cursive;
 }

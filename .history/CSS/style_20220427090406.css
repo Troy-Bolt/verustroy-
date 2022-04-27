@@ -70,8 +70,7 @@ img {
 }
 
 .row img{
-    flex:70%;
-    width: 100%;
+    flex:100%;
 }
 
 .row p {

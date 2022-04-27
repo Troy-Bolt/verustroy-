@@ -51,7 +51,6 @@ img {
     object-fit:scale-down;
 }
 
-
 .text {
     align-self: center;
 }
@@ -63,20 +62,12 @@ img {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
     img {
         width: 100%;
     }
 }
 
-.row img{
-    flex:70%;
-    width: 100%;
-}
-
-.row p {
-  flex:90%
-}
 span {
     font-family: 'WindSong', cursive;
 }

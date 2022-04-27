@@ -47,11 +47,13 @@ span {
 
 img {
     max-width: 100%;
-    width: 50%;
+    width: 70%;
     object-fit:scale-down;
 }
 
-
+img a {
+    width: 100%;
+}
 .text {
     align-self: center;
 }
@@ -69,14 +71,6 @@ img {
     }
 }
 
-.row img{
-    flex:70%;
-    width: 100%;
-}
-
-.row p {
-  flex:90%
-}
 span {
     font-family: 'WindSong', cursive;
 }

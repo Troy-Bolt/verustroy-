@@ -65,18 +65,10 @@ img {
 
 @media (max-width: 800px) {
     img {
-        width: 100%;
+        max-width: 100%;
     }
 }
 
-.row img{
-    flex:70%;
-    width: 100%;
-}
-
-.row p {
-  flex:90%
-}
 span {
     font-family: 'WindSong', cursive;
 }

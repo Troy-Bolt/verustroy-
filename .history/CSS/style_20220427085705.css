@@ -69,14 +69,6 @@ img {
     }
 }
 
-.row img{
-    flex:70%;
-    width: 100%;
-}
-
-.row p {
-  flex:90%
-}
 span {
     font-family: 'WindSong', cursive;
 }
